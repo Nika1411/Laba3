@@ -1,0 +1,6 @@
+a = int(input("Enter the first number :"))
+b = int(input("Enter the following number:"))
+c = int(input("Enter the following number:"))
+d = int(input("Enter the last number:"))
+x =(a+b)/(c+d)
+print("%.2f" % x)
